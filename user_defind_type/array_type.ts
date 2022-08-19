@@ -12,7 +12,3 @@ multipleTypes = "hello"[234];
 console.log(numbers[3]);
 console.log(userName);
 console.log(multipleTypes);
-
-
-
-
